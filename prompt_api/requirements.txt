@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+googletrans==3.1.0a0
+pandas
+firebase_admin
+# pillow
+pip install python-multipart
+python-dotenv
